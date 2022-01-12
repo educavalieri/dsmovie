@@ -50,7 +50,16 @@
 			<artifactId>spring-security-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>com.heroku.platform.api</groupId>
+			<artifactId>heroku-scala-project_2.10</artifactId>
+			<version>0.0.3</version>
+		</dependency>
+
+
 	</dependencies>
+
+
 
 	<build>
 		<plugins>
